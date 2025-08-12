@@ -1,0 +1,8 @@
+cat > .gitignore <<'GIT'
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+data/
+GIT

@@ -1,0 +1,4 @@
+ann_return: 0.0833
+ann_vol: 0.1287
+sharpe: 0.6475
+max_drawdown: -0.3276
